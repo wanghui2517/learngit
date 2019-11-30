@@ -4,4 +4,4 @@ git has a mutable index called stage.
 creating a new branch is quick.
 add home pc ssh key to learngit.
 creating a new branch is quick and simple.
-fix conflict on master
+fix conflict
