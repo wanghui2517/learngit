@@ -5,3 +5,4 @@ creating a new branch is quick.
 add home pc ssh key to learngit.
 creating a new branch is quick and simple.
 fix conflict
+use --no--ff form merge
